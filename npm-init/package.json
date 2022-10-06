@@ -1,0 +1,22 @@
+{
+  "name": "npm-init",
+  "version": "2.0.0",
+  "description": "npm exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tadhanom95/IT122-exercises.git"
+  },
+  "keywords": [
+    "IT122"
+  ],
+  "author": "Tadesse Adhanom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tadhanom95/IT122-exercises/issues"
+  },
+  "homepage": "https://github.com/Tadhanom95/IT122-exercises#readme"
+}
