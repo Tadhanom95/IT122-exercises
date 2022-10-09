@@ -1,4 +1,4 @@
-const api_endpoint = 'http://dog-api.kiduff.com/api/facts?number=5'
+const api_endpoint = 'http://dog-api.kinduff.com/api/facts?number=5'
 
 const response = await fetch(api_endpoint);
 
